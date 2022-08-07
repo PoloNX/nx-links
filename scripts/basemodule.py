@@ -55,7 +55,7 @@ class BaseModule:
         if self.config[index].get("prerelease", False) == False:
             for release in releases:
                 if not release.prerelease:
-                    return release
+                    return releases
         return releases[:5]
 
     def get_asset_link(self, release, pattern):
