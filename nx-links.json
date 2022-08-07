@@ -15,7 +15,7 @@
         "Firmware 14.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/14.1.0/Firmware.14.1.0.zip"
     },
     "app": {
-        "AtmoPackUpdater": "https://github.com/PoloNX/AtmoPackUpdater/releases/download/0.0.7/AtmoPackUpdater.nro",
-        "version": "0.0.7"
+        "AtmoPackUpdater": "https://github.com/PoloNX/AtmoPackUpdater/releases/download/1.0.0/AtmoPackUpdater.nro",
+        "version": "1.0.0"
     }
 }
