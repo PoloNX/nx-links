@@ -38,6 +38,26 @@ class BaseModule:
                     return release
         return releases[0]
 
+    def get_releases(self, index):
+        gh = Github(args.githubToken)
+        try:
+            repo = gh.get_repo(
+                self.config[index]["username"] + "/" + self.config[index]["reponame"])
+        except GithubException:
+            print("Unable to get: ",
+                  self.config[index]["username"], "/", self.config[index]["reponame"])
+            return None
+        releases = repo.get_releases()
+        if releases.totalCount == 0:
+            print("No available releases for: ",
+                  self.config[index]["username"], "/", self.config[index]["reponame"])
+            return None
+        if self.config[index].get("prerelease", False) == False:
+            for release in releases:
+                if not release.prerelease:
+                    return release
+        return releases
+
     def get_asset_link(self, release, pattern):
         assets = []
         for asset in release.get_assets():
