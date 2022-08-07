@@ -17,4 +17,4 @@ class Firmwares(BaseModule):
             for j in range(5):
                 assets = self.get_asset_links(release[j], i)
                 for asset in assets:
-                    self.out[release.title] = asset.browser_download_url
+                    self.out[release[j].title] = asset.browser_download_url
