@@ -18,3 +18,4 @@ class Ams_cfw(BaseModule):
             for asset in assets:
                 self.out[release.title] = asset.browser_download_url
             self.out["version"] = release.tag_name
+            self.out["changelog"] = release.body
