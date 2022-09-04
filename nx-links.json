@@ -8,6 +8,7 @@
         "version": "0.0.1"
     },
     "firmwares": {
+        "Firmware 14.1.2 (Rebootless Update 3)": "https://github.com/THZoria/NX_Firmware/releases/download/14.1.2r3/Firmware.14.1.2.Rebootless.Update.3.zip",
         "Firmware 14.1.2 (Rebootless Update 2)": "https://github.com/THZoria/NX_Firmware/releases/download/14.1.2r2/Firmware.14.1.2.Rebootless.Update.2.zip",
         "Firmware 14.1.2 (Rebootless Update)": "https://github.com/THZoria/NX_Firmware/releases/download/14.1.2r/Firmware.14.1.2.Rebootless.Update.zip",
         "Firmware 14.1.2": "https://github.com/THZoria/NX_Firmware/releases/download/14.1.2/Firmware.14.1.2.zip",
