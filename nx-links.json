@@ -8,6 +8,7 @@
         "version": "0.0.1"
     },
     "firmwares": {
+        "Firmware for the Nintendo Switch": "https://github.com/THZoria/NX_Firmware/releases/download/15.0.0/Firmware.15.0.0.zip",
         "Firmware 14.1.2 (Rebootless Update 3)": "https://github.com/THZoria/NX_Firmware/releases/download/14.1.2r3/Firmware.14.1.2.Rebootless.Update.3.zip",
         "Firmware 14.1.2 (Rebootless Update 2)": "https://github.com/THZoria/NX_Firmware/releases/download/14.1.2r2/Firmware.14.1.2.Rebootless.Update.2.zip",
         "Firmware 14.1.2 (Rebootless Update)": "https://github.com/THZoria/NX_Firmware/releases/download/14.1.2r/Firmware.14.1.2.Rebootless.Update.zip",
