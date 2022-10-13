@@ -36,7 +36,27 @@ class BaseModule:
             for release in releases:
                 if not release.prerelease:
                     return release
-        return releases[0]
+        return releases[-1]
+
+    def get_latest_pre_release(self, index):
+        gh = Github(args.githubToken)
+        try:
+            repo = gh.get_repo(
+                self.config[index]["username"] + "/" + self.config[index]["reponame"])
+        except GithubException:
+            print("Unable to get: ",
+                  self.config[index]["username"], "/", self.config[index]["reponame"])
+            return None
+        releases = repo.get_releases()
+        if releases.totalCount == 0:
+            print("No available releases for: ",
+                  self.config[index]["username"], "/", self.config[index]["reponame"])
+            return None
+        for release in releases:
+            if release.prerelease:
+                return release
+        return None
+
 
     def get_releases(self, index):
         gh = Github(args.githubToken)
