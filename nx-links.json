@@ -5,8 +5,8 @@
         "version_beta": "v2.2.7"
     },
     "sigpatches": {
-        "signature_gpd 0.0.1": "https://github.com/PHRetroGamers/signature_gpd/releases/download/0.0.1/signature_gpd.zip",
-        "version": "0.0.1"
+        "sigpatches": "jits.cc/patches",
+        "version": "???"
     },
     "firmwares": {
         "Firmware 15.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/15.0.1/Firmware.15.0.1.zip",
