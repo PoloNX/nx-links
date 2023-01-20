@@ -2,7 +2,7 @@
     "ams_cfw": {
         "Pack Atmosphere 1.4.0 Hekate 6.0.1 & Sigpatch FW 15.0.1": "https://github.com/THZoria/AtmoPack-Vanilla/releases/download/2.3.1/AtmoPack-Vanilla_Latest.zip",
         "version": "2.3.1",
-        "version_beta": "2.1.6"
+        "version_beta": "v2.2.7"
     },
     "sigpatches": {
         "sigpatches": "jits.cc/patches",
