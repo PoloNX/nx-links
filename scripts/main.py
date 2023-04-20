@@ -4,6 +4,7 @@ import ams_cfw
 import firmwares
 import sigpatches
 import app
+import homebrew
 
 if __name__ == '__main__':
 
@@ -18,7 +19,8 @@ if __name__ == '__main__':
         ams_cfw.Ams_cfw(),
         sigpatches.Sigpatches(),
         firmwares.Firmwares(),
-        app.App()
+        app.App(),
+        homebrew.Homebrew()
     ]
     for module in modules:
         if module.out == {}:
