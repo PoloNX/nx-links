@@ -23,7 +23,7 @@ class Homebrew(BaseModule):
         self.out["JKSV"] = asset[0].browser_download_url
         self.out["JKSV_version"] = release.tag_name
 
-        self.config = [{"username": "mtheall","reponame": "ftpd","assetPatterns": [".*ftpd.*\\.nro"]}]
+        self.config = [{"username": "mtheall","reponame": "ftpd","assetPatterns": [".*ftpd-classic.*\\.nro"]}]
         release = self.get_latest_release(0)
         asset = self.get_asset_link(release, self.config[0]["assetPatterns"][0])
         self.out["FTPD"] = asset[0].browser_download_url
