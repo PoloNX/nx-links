@@ -20,8 +20,10 @@ class Ams_cfw(BaseModule):
             self.out["version"] = release.tag_name
 
             pre_release = self.get_latest_pre_release(i)
-            pre_assets = self.get_asset_links(release, i)
+            pre_assets = self.get_asset_links(pre_release, i)
             for asset in pre_assets:
                 self.out[pre_release.title] = asset.browser_download_url
-            self.out["version-beta"] = pre_release.tag_name
+            if pre_release.tag_name != release.tag_name:
+                self.out["version_beta"] = pre_release.tag_name
+            
 
