@@ -78,8 +78,8 @@
     "homebrew": {
         "Goldleaf": "https://github.com/XorTroll/Goldleaf/releases/download/0.10.1/Goldleaf.nro",
         "Goldleaf_version": "0.10.1",
-        "JKSV": "https://github.com/J-D-K/JKSV/releases/download/02/23/2023/JKSV.nro",
-        "JKSV_version": "02/23/2023",
+        "JKSV": "https://github.com/J-D-K/JKSV/releases/download/09/01/2021/JKSV.nro",
+        "JKSV_version": "09/01/2021",
         "FTPD": "https://github.com/mtheall/ftpd/releases/download/v3.1.0/ftpd-classic.nro",
         "FTPD_version": "v3.1.0",
         "DBI": "https://github.com/rashevskyv/dbi/releases/download/527/DBI.nro",
