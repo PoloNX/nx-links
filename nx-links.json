@@ -82,8 +82,8 @@
         "JKSV_version": "02/23/2023",
         "FTPD": "https://github.com/mtheall/ftpd/releases/download/v3.1.0/ftpd-classic.nro",
         "FTPD_version": "v3.1.0",
-        "DBI": "https://github.com/rashevskyv/dbi/releases/download/527/DBI.nro",
-        "DBI_version": "527",
+        "DBI": "https://github.com/rashevskyv/dbi/releases/download/551/DBI.nro",
+        "DBI_version": "551",
         "Ls-News": "https://github.com/PoloNX/Ls-News/releases/download/1.0.0/Ls-News.nro",
         "Ls-News_version": "1.0.0"
     }
