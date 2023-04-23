@@ -72,8 +72,8 @@
         "Firmware 1.0.0 Pre-Release": "https://github.com/THZoria/NX_Firmware/releases/download/1.0.0pr/Firmware.1.0.0-7.pr.zip"
     },
     "app": {
-        "AtmoPackUpdater": "https://github.com/PoloNX/AtmoPackUpdater/releases/download/1.7.0/AtmoPackUpdater.nro",
-        "version": "1.7.0"
+        "AtmoPackUpdater": "https://github.com/PoloNX/AtmoPackUpdater/releases/download/1.8.0/AtmoPackUpdater.nro",
+        "version": "1.8.0"
     },
     "homebrew": {
         "Goldleaf": "https://github.com/XorTroll/Goldleaf/releases/download/0.10.1/Goldleaf.nro",
