@@ -5,6 +5,7 @@ import firmwares
 import sigpatches
 import app
 import homebrew
+import tab
 
 if __name__ == '__main__':
 
@@ -20,7 +21,8 @@ if __name__ == '__main__':
         sigpatches.Sigpatches(),
         firmwares.Firmwares(),
         app.App(),
-        homebrew.Homebrew()
+        homebrew.Homebrew(),
+        tab.Tab()
     ]
     for module in modules:
         if module.out == {}:
