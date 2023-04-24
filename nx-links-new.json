@@ -77,22 +77,27 @@
     },
     "homebrew": {
         "Goldleaf": {
+            "name": "Goldleaf",
             "link": "https://github.com/XorTroll/Goldleaf/releases/download/0.10.1/Goldleaf.nro",
             "version": "0.10.1"
         },
         "JKSV": {
+            "name": "JKSV",
             "link": "https://github.com/J-D-K/JKSV/releases/download/02/23/2023/JKSV.nro",
             "version": "02/23/2023"
         },
         "ftpd": {
+            "name": "ftpd",
             "link": "https://github.com/mtheall/ftpd/releases/download/v3.1.0/ftpd-classic.nro",
             "version": "v3.1.0"
         },
         "dbi": {
+            "name": "dbi",
             "link": "https://github.com/rashevskyv/dbi/releases/download/551/DBI.nro",
             "version": "551"
         },
         "Ls-News": {
+            "name": "Ls-News",
             "link": "https://github.com/PoloNX/Ls-News/releases/download/1.0.0/Ls-News.nro",
             "version": "1.0.0"
         }
