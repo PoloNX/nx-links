@@ -26,4 +26,4 @@ class Homebrew(BaseModule):
             else:
                 release = self.get_latest_release(0)
             asset = self.get_asset_link(release, self.config[0]["assetPatterns"][0])
-            self.out[self.config[0]["reponame"]] = {"link": asset[0].browser_download_url, "version": release.tag_name}
+            self.out[self.config[0]["reponame"]] = {"name": i[0]["reponame"] , "link": asset[0].browser_download_url, "version": release.tag_name}
