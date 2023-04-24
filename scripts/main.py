@@ -8,7 +8,7 @@ import homebrew
 
 if __name__ == '__main__':
 
-    json_file = "nx-links.json"
+    json_file = "nx-links-new.json"
     try:
         with open(json_file, "r") as old_file:
             out = json.load(old_file)
