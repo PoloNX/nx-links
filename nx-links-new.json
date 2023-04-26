@@ -76,25 +76,40 @@
         "version": "1.8.1"
     },
     "homebrew": {
-        "Goldleaf": {
-            "name": "Goldleaf",
-            "link": "https://github.com/XorTroll/Goldleaf/releases/download/0.10.1/Goldleaf.nro",
-            "version": "0.10.1"
+        "dbi": {
+            "name": "dbi",
+            "link": "https://github.com/rashevskyv/dbi/releases/download/551/DBI.nro",
+            "version": "551"
         },
-        "JKSV": {
-            "name": "JKSV",
-            "link": "https://github.com/J-D-K/JKSV/releases/download/02/23/2023/JKSV.nro",
-            "version": "02/23/2023"
+        "EdiZon": {
+            "name": "EdiZon",
+            "link": "https://github.com/WerWolv/EdiZon/releases/download/v3.1.0/EdiZon.nro",
+            "version": "v3.1.0"
         },
         "ftpd": {
             "name": "ftpd",
             "link": "https://github.com/mtheall/ftpd/releases/download/v3.1.0/ftpd-classic.nro",
             "version": "v3.1.0"
         },
-        "dbi": {
-            "name": "dbi",
-            "link": "https://github.com/rashevskyv/dbi/releases/download/551/DBI.nro",
-            "version": "551"
+        "Goldleaf": {
+            "name": "Goldleaf",
+            "link": "https://github.com/XorTroll/Goldleaf/releases/download/0.10.1/Goldleaf.nro",
+            "version": "0.10.1"
+        },
+        "Hekate-Toolbox": {
+            "name": "Hekate-Toolbox",
+            "link": "https://github.com/WerWolv/Hekate-Toolbox/releases/download/v4.0.3/HekateToolbox.nro",
+            "version": "v4.0.3"
+        },
+        "JKSV": {
+            "name": "JKSV",
+            "link": "https://github.com/J-D-K/JKSV/releases/download/02/23/2023/JKSV.nro",
+            "version": "02/23/2023"
+        },
+        "NX-Activity-Log": {
+            "name": "NX-Activity-Log",
+            "link": "https://github.com/tallbl0nde/NX-Activity-Log/releases/download/v1.4.0/NX-Activity-Log.nro",
+            "version": "v1.4.0"
         },
         "Ls-News": {
             "name": "Ls-News",
