@@ -141,12 +141,6 @@
             "link": "https://github.com/WerWolv/nx-ovlloader/releases/download/v1.0.6/nx-ovlloader.zip",
             "version": "v1.0.6",
             "homebrew": false
-        },
-        "emuiibo": {
-            "name": "emuiibo",
-            "link": "https://github.com/XorTroll/emuiibo/releases/download/0.6.4/emuiibo-v0.6.4.zip",
-            "version": "0.6.4",
-            "homebrew": false
         }
     },
     "tab": {
