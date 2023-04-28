@@ -9,7 +9,7 @@ class Tab(BaseModule):
         self.out = {
             "Pack" : True,
             "App" : True,
-            "Homebrew" : True,
+            "Homebrew" : False,
             "Firmware" : True,
             "Sigpatches" : True
         }
