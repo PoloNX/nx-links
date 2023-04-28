@@ -72,8 +72,8 @@
         "Firmware 1.0.0 Pre-Release": "https://github.com/THZoria/NX_Firmware/releases/download/1.0.0pr/Firmware.1.0.0-7.pr.zip"
     },
     "app": {
-        "AtmoPackUpdater": "https://github.com/PoloNX/AtmoPackUpdater/releases/download/1.8.1/AtmoPackUpdater.nro",
-        "version": "1.8.1"
+        "AtmoPackUpdater": "https://github.com/PoloNX/AtmoPackUpdater/releases/download/1.8.2/AtmoPackUpdater.nro",
+        "version": "1.8.2"
     },
     "homebrew": {
         "dbi": {
@@ -146,7 +146,7 @@
     "tab": {
         "Pack": true,
         "App": true,
-        "Homebrew": false,
+        "Homebrew": true,
         "Firmware": true,
         "Sigpatches": true
     }
