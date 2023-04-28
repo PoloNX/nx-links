@@ -25,7 +25,6 @@ class Homebrew(BaseModule):
         a.append([{"username": "ndeadly","reponame": "MissionControl", "homebrew": False,"assetPatterns": [".*MissionControl.*\\.zip"]}])
         a.append([{"username": "exelix11","reponame": "SysDVR", "homebrew": False,"assetPatterns": ["SysDVR.zip"]}])
         a.append([{"username": "WerWolv","reponame": "nx-ovlloader", "homebrew": False,"assetPatterns": [".*nx-ovlloader.*\\.zip"]}])
-        a.append([{"username": "XorTroll","reponame": "emuiibo", "homebrew": False,"assetPatterns": [".*emuiibo.*\\.zip"]}])
 
         for i in a:
             self.config = i
