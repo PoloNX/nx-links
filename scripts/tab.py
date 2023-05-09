@@ -10,6 +10,6 @@ class Tab(BaseModule):
             "Pack" : True,
             "App" : True,
             "Homebrew" : True,
-            "Firmware" : True,
+            "Firmware" : False,
             "Sigpatches" : True
         }
