@@ -148,7 +148,7 @@
         "Pack": true,
         "App": true,
         "Homebrew": true,
-        "Firmware": true,
+        "Firmware": false,
         "Sigpatches": true
     }
 }
