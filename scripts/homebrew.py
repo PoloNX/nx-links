@@ -22,9 +22,9 @@ class Homebrew(BaseModule):
         a.append([{"username": "tallbl0nde","reponame": "NX-Activity-Log", "homebrew": True,"assetPatterns": [".*NX-Activity-Log.*\\.nro"]}])
         a.append([{"username": "PoloNX","reponame": "Ls-News", "homebrew": True,"assetPatterns": [".*Ls-News.*\\.nro"]}])
 
-        a.append([{"username": "ndeadly","reponame": "MissionControl", "homebrew": False,"assetPatterns": [".*MissionControl.*\\.zip"]}])
-        a.append([{"username": "exelix11","reponame": "SysDVR", "homebrew": False,"assetPatterns": ["SysDVR.zip"]}])
-        a.append([{"username": "WerWolv","reponame": "nx-ovlloader", "homebrew": False,"assetPatterns": [".*nx-ovlloader.*\\.zip"]}])
+        #a.append([{"username": "ndeadly","reponame": "MissionControl", "homebrew": False,"assetPatterns": [".*MissionControl.*\\.zip"]}])
+        #a.append([{"username": "exelix11","reponame": "SysDVR", "homebrew": False,"assetPatterns": ["SysDVR.zip"]}])
+        #a.append([{"username": "WerWolv","reponame": "nx-ovlloader", "homebrew": False,"assetPatterns": [".*nx-ovlloader.*\\.zip"]}])
 
         for i in a:
             self.config = i
