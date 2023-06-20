@@ -21,6 +21,8 @@ class Homebrew(BaseModule):
         a.append([{"username": "J-D-K","reponame": "JKSV", "homebrew": True,"assetPatterns": [".*JKSV.*\\.nro"]}])
         a.append([{"username": "tallbl0nde","reponame": "NX-Activity-Log", "homebrew": True,"assetPatterns": [".*NX-Activity-Log.*\\.nro"]}])
         a.append([{"username": "PoloNX","reponame": "Ls-News", "homebrew": True,"assetPatterns": [".*Ls-News.*\\.nro"]}])
+        a.append([{"username": "PoloNX","reponame": "SimpleModDownloader", "homebrew": True,"assetPatterns": [".*SimpleModDownloader.*\\.nro"]}])
+        a.append([{"username": "nadrino","reponame": "SimpleModManager", "homebrew": True,"assetPatterns": [".*SimpleModManager.*\\.nro"]}])
 
         #a.append([{"username": "ndeadly","reponame": "MissionControl", "homebrew": False,"assetPatterns": [".*MissionControl.*\\.zip"]}])
         #a.append([{"username": "exelix11","reponame": "SysDVR", "homebrew": False,"assetPatterns": ["SysDVR.zip"]}])
