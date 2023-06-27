@@ -10,6 +10,7 @@
         "version": "???"
     },
     "firmwares": {
+        "Firmware 16.0.3 (Rebootless Update 2)": "https://github.com/THZoria/NX_Firmware/releases/download/16.0.3r2/Firmware.16.0.3.Rebootless.Update.2.zip",
         "Firmware 16.0.3 (Rebootless Update)": "https://github.com/THZoria/NX_Firmware/releases/download/16.0.3r/Firmware.16.0.3.Rebootless.Update.zip",
         "Firmware 16.0.3": "https://github.com/THZoria/NX_Firmware/releases/download/16.0.3/Firmware.16.0.3.zip",
         "Firmware 16.0.2": "https://github.com/THZoria/NX_Firmware/releases/download/16.0.2/Firmware.16.0.2.zip",
