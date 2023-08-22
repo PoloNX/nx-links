@@ -1,7 +1,7 @@
 {
     "ams_cfw": {
-        "Pack Atmosphere 1.5.4 Hekate 6.0.5 & Sigpatch FW 16.0.3": "https://github.com/THZoria/AtmoPack-Vanilla/releases/download/2.4.5a/AtmoPack-Vanilla_Latest.zip",
-        "version": "2.4.5a",
+        "Pack Atmosphere 1.5.5 Hekate 6.0.5 & Sigpatch FW 16.1.0": "https://github.com/THZoria/AtmoPack-Vanilla/releases/download/2.4.6/AtmoPack-Vanilla_Latest.zip",
+        "version": "2.4.6",
         "version_beta": "2.4.4a"
     },
     "sigpatches": {
@@ -9,6 +9,7 @@
         "version": "???"
     },
     "firmwares": {
+        "Firmware 16.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/16.1.0/Firmware.16.1.0.zip",
         "Firmware 16.0.3 (Rebootless Update 2)": "https://github.com/THZoria/NX_Firmware/releases/download/16.0.3r2/Firmware.16.0.3.Rebootless.Update.2.zip",
         "Firmware 16.0.3 (Rebootless Update)": "https://github.com/THZoria/NX_Firmware/releases/download/16.0.3r/Firmware.16.0.3.Rebootless.Update.zip",
         "Firmware 16.0.3": "https://github.com/THZoria/NX_Firmware/releases/download/16.0.3/Firmware.16.0.3.zip",
