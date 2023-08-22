@@ -99,8 +99,8 @@
         },
         "Goldleaf": {
             "name": "Goldleaf",
-            "link": "https://github.com/XorTroll/Goldleaf/releases/download/0.10.1/Goldleaf.nro",
-            "version": "0.10.1",
+            "link": "https://github.com/XorTroll/Goldleaf/releases/download/0.10/Goldleaf.nro",
+            "version": "0.10",
             "homebrew": true
         },
         "Hekate-Toolbox": {
