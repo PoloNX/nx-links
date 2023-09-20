@@ -162,6 +162,18 @@
             "link": "https://github.com/WerWolv/Tesla-Menu/releases/download/v1.2.3/ovlmenu.zip",
             "version": "v1.2.3",
             "homebrew": false
+        },
+        "fastCFWswitch": {
+            "name": "fastCFWswitch",
+            "link": "https://github.com/Hartie95/fastCFWswitch/releases/download/v1.3.1/fastCFWswitch_1.3.1.zip",
+            "version": "v1.3.1",
+            "homebrew": false
+        },
+        "sys-tune": {
+            "name": "sys-tune",
+            "link": "https://github.com/HookedBehemoth/sys-tune/releases/download/v2.0.0/sys-tune-2.0.0-702cdd0.zip",
+            "version": "v2.0.0",
+            "homebrew": false
         }
     },
     "tab": {
