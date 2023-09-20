@@ -156,6 +156,12 @@
             "link": "https://github.com/WerWolv/nx-ovlloader/releases/download/v1.0.7/nx-ovlloader.zip",
             "version": "v1.0.7",
             "homebrew": false
+        },
+        "Tesla-Menu": {
+            "name": "Tesla-Menu",
+            "link": "https://github.com/WerWolv/Tesla-Menu/releases/download/v1.2.3/ovlmenu.zip",
+            "version": "v1.2.3",
+            "homebrew": false
         }
     },
     "tab": {
