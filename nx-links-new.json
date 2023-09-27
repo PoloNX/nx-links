@@ -135,8 +135,8 @@
         },
         "SimpleModManager": {
             "name": "SimpleModManager",
-            "link": "https://github.com/nadrino/SimpleModManager/releases/download/2.1.1/SimpleModManager.nro",
-            "version": "2.1.1",
+            "link": "https://github.com/nadrino/SimpleModManager/releases/download/2.1.2/SimpleModManager.nro",
+            "version": "2.1.2",
             "homebrew": true
         },
         "MissionControl": {
