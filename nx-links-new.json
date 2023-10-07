@@ -71,8 +71,7 @@
         "Firmware 2.2.0": "https://github.com/THZoria/NX_Firmware/releases/download/2.2.0/Firmware.2.2.0.zip",
         "Firmware 2.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/2.1.0/Firmware.2.1.0.zip",
         "Firmware 2.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/2.0.0/Firmware.2.0.0.zip",
-        "Firmware 1.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/1.0.0/Firmware.1.0.0.zip",
-        "Firmware 1.0.0 Pre-Release": "https://github.com/THZoria/NX_Firmware/releases/download/1.0.0pr/Firmware.1.0.0-7.pr.zip"
+        "Firmware 1.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/1.0.0/Firmware.1.0.0.zip"
     },
     "app": {
         "AtmoPackUpdater": "https://github.com/PoloNX/AtmoPackUpdater/releases/download/1.9.1/AtmoPackUpdater.nro",
