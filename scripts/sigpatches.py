@@ -14,5 +14,5 @@ class Sigpatches(BaseModule):
 
     def handle_module(self):
         for i in range(len(self.config)):
-            self.out["sigpatches"] = "jits.cc/patches"
-            self.out["version"] = "???"
+            self.out["sigpatches"] = "sigmapatches.coomer.party/sigpatches.zip?latest"
+            self.out["version"] = "latest"
