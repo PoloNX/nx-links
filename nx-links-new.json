@@ -5,8 +5,8 @@
         "version_beta": "2.4.4a"
     },
     "sigpatches": {
-        "sigpatches": "jits.cc/patches",
-        "version": "???"
+        "sigpatches": "sigmapatches.coomer.party/sigpatches.zip?latest",
+        "version": "latest"
     },
     "firmwares": {
         "Firmware 17.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/17.0.0/Firmware.17.0.0.zip",
