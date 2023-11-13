@@ -118,8 +118,8 @@
         },
         "NX-Activity-Log": {
             "name": "NX-Activity-Log",
-            "link": "https://github.com/tallbl0nde/NX-Activity-Log/releases/download/v1.3.2/NX-Activity-Log.nro",
-            "version": "v1.3.2",
+            "link": "https://github.com/tallbl0nde/NX-Activity-Log/releases/download/v1.4.0/NX-Activity-Log.nro",
+            "version": "v1.4.0",
             "homebrew": true
         },
         "Ls-News": {
