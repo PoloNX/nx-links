@@ -174,8 +174,8 @@
         },
         "sys-tune": {
             "name": "sys-tune",
-            "link": "https://github.com/HookedBehemoth/sys-tune/releases/download/v2.0.0/sys-tune-2.0.0-702cdd0.zip",
-            "version": "v2.0.0",
+            "link": "https://github.com/HookedBehemoth/sys-tune/releases/download/v1.2.2/sys-tune-1.2.2-512e274.zip",
+            "version": "v1.2.2",
             "homebrew": false
         }
     },
