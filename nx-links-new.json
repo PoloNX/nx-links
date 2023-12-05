@@ -84,8 +84,8 @@
     "homebrew": {
         "dbi": {
             "name": "dbi",
-            "link": "https://github.com/rashevskyv/dbi/releases/download/640/DBI.nro",
-            "version": "640",
+            "link": "https://github.com/rashevskyv/dbi/releases/download/652/DBI.nro",
+            "version": "652",
             "homebrew": true
         },
         "EdiZon": {
