@@ -132,8 +132,8 @@
         },
         "SimpleModDownloader": {
             "name": "SimpleModDownloader",
-            "link": "https://github.com/PoloNX/SimpleModDownloader/releases/download/1.0.3/SimpleModDownloader.nro",
-            "version": "1.0.3",
+            "link": "https://github.com/PoloNX/SimpleModDownloader/releases/download/1.0.2/SimpleModDownloader.nro",
+            "version": "1.0.2",
             "homebrew": true
         },
         "SimpleModManager": {
