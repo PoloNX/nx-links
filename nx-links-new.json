@@ -150,8 +150,8 @@
         },
         "SysDVR": {
             "name": "SysDVR",
-            "link": "https://github.com/exelix11/SysDVR/releases/download/v5.5.6/SysDVR.zip",
-            "version": "v5.5.6",
+            "link": "https://github.com/exelix11/SysDVR/releases/download/v6.0/SysDVR.zip",
+            "version": "v6.0",
             "homebrew": false
         },
         "nx-ovlloader": {
