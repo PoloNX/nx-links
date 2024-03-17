@@ -25,6 +25,7 @@ if __name__ == '__main__':
         tab.Tab()
     ]
     for module in modules:
+        module.handle_module()
         if module.out == {}:
             print(f"Module {module.__module__} returned an empty dict.")
         out[module.__module__] = module.out
