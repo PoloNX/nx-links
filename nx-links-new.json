@@ -145,8 +145,8 @@
         },
         "MissionControl": {
             "name": "MissionControl",
-            "link": "https://github.com/ndeadly/MissionControl/releases/download/v0.10.0/MissionControl-0.10.0-master-38c9879.zip",
-            "version": "v0.10.0",
+            "link": "https://github.com/ndeadly/MissionControl/releases/download/v0.11.0/MissionControl-0.11.0-master-2f5e9b9.zip",
+            "version": "v0.11.0",
             "homebrew": false
         },
         "SysDVR": {
