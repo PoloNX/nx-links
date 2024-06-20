@@ -1,7 +1,5 @@
 {
-    "ams_cfw": {
-        "version": "2.7.1-beta2"
-    },
+    "ams_cfw": {},
     "sigpatches": {
         "sigpatches": "sigmapatches.coomer.party/sigpatches.zip?latest",
         "version": "latest"
