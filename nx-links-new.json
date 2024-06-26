@@ -1,5 +1,6 @@
 {
     "ams_cfw": {
+        "Pack Atmosphere 1.7.1 Hekate 6.2.0 & Sigpatch FW 18.1.0": "https://codeberg.org/Zoria/AtmoPack-Vanilla/releases/download/2.7.1-beta2/AtmoPack-Vanilla_Beta.zip",
         "version": "2.7.1-beta2"
     },
     "sigpatches": {
