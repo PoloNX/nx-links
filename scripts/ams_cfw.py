@@ -7,7 +7,7 @@ class Ams_cfw(CodebergModule):
             {
                 "username": "Zoria",
                 "reponame": "AmoPack-Vanilla",
-                "assetPatterns": [".*AtmoPack-Vanilla_Latest.*\\.zip"]
+                "assetPatterns": [".*AtmoPack-Vanilla.*\\.zip"]
             }
         ]
         CodebergModule.__init__(self)
