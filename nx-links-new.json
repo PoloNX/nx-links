@@ -8,6 +8,7 @@
         "version": "latest"
     },
     "firmwares": {
+        "Firmware 19.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/19.0.0/Firmware.19.0.0.zip",
         "Firmware 18.1.0 (Rebootless Update)": "https://github.com/THZoria/NX_Firmware/releases/download/18.1.0r/Firmware.18.1.0.Rebootless.zip",
         "Firmware 18.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/18.1.0/Firmware.18.1.0.zip",
         "Firmware 18.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/18.0.1/Firmware.18.0.1.zip",
