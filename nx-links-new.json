@@ -1,5 +1,8 @@
 {
-    "ams_cfw": {},
+    "ams_cfw": {
+        "Pack Atmosphere 1.7.1 Hekate 6.2.1 & Sigpatch FW 18.1.0 Stable": "https://codeberg.org/Zoria/AtmoPack-Vanilla/releases/download/2.7.2/AtmoPack-Vanilla_Latest.zip",
+        "version": "2.7.2"
+    },
     "sigpatches": {
         "sigpatches": "sigmapatches.coomer.party/sigpatches.zip?latest",
         "version": "latest"
@@ -86,8 +89,8 @@
     "homebrew": {
         "dbi": {
             "name": "dbi",
-            "link": "https://github.com/rashevskyv/dbi/releases/download/707ru/DBI.nro",
-            "version": "707ru",
+            "link": "https://github.com/rashevskyv/dbi/releases/download/710ru/DBI.nro",
+            "version": "710ru",
             "homebrew": true
         },
         "EdiZon": {
