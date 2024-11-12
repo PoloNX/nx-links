@@ -102,8 +102,8 @@
         },
         "ftpd": {
             "name": "ftpd",
-            "link": "https://github.com/mtheall/ftpd/releases/download/v3.1.0/ftpd-classic.nro",
-            "version": "v3.1.0",
+            "link": "https://github.com/mtheall/ftpd/releases/download/v3.2.0/ftpd-classic.nro",
+            "version": "v3.2.0",
             "homebrew": true
         },
         "Goldleaf": {
