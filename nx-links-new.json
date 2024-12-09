@@ -1,7 +1,7 @@
 {
     "ams_cfw": {
-        "Pack Atmosphere 1.7.1 Hekate 6.2.1 & Sigpatch FW 18.1.0 Stable": "https://codeberg.org/Zoria/AtmoPack-Vanilla/releases/download/2.7.2/AtmoPack-Vanilla_Latest.zip",
-        "version": "2.7.2"
+        "Pack Atmosphere 1.8.0 Hekate 6.2.2 & Sigpatch FW 19.0.1": "https://codeberg.org/Zoria/AtmoPack-Vanilla/releases/download/2.7.4/AtmoPack-Vanilla_Latest.zip",
+        "version": "2.7.4"
     },
     "sigpatches": {
         "sigpatches": "sigmapatches.coomer.party/sigpatches.zip?latest",
